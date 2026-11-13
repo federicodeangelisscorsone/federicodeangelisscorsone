@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @federicodeangelisscorsone
-- 👀 Enrolled MSc in Economics at @uniromatre
-- 🌱 I’m currently learning coding for economics and financial applications
-
-
+👋 Hi, I’m @federicodeangelisscorsone 
+🌱 PhD candidate in Finance @ sapienza @ swufe 
+👀 BSc, MSc in Economics @ uniromatre
